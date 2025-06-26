@@ -1,6 +1,6 @@
 # Rotten-Fruit-Detection
 
-Rotten Fruit Detection
+Rotten Fruit Detection can be downloaded from here -- https://drive.google.com/file/d/1kNu6DYVpzJ_QqS5eswS01_STYY28sXS8/view?usp=sharing 
 
 ## Repository Details
 
